@@ -2,7 +2,9 @@
 
 IIIBreakableWindshields is a plugin that brings the breakable car glass feature from Vice City to GTA 3!
 
-[gtaforums topic](https://gtaforums.com/topic/901608-breakable-windshields/)
+
+[GTAForums topic](https://gtaforums.com/topic/901608-breakable-windshields/)
+
 [YouTube demonstration](https://www.youtube.com/watch?v=YkTEvoHYgQo)
 
 # Installation
